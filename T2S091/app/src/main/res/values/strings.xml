@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">T2S-091</string>
+    <string name="enter_text_to_convert">Enter text to convert</string>
+    <string name="convert_text_to_speech">Convert Text To Speech</string>
+</resources>
